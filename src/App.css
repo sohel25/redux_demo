@@ -1,3 +1,33 @@
+img {
+  width: 100%;
+}
+.cart-wrapper{
+  height: 100px;
+  width: 500px;
+  border: 1px solid #ccc;
+  margin-left:  10px;
+}
+.add-to-cart img{
+  width: 80px;
+  position: absolute;
+  right: 1%;
+}
+button{
+  background-color: green;
+  border: 0px;
+  padding: 10px;
+  border-radius: 4px;
+  color: white;
+  box-shadow: black 0px 1px 5px;
+}
+.item{
+  float: left;
+  width: 120px;
+  padding: 20px;
+  margin-top: 10px;
+  
+
+}
 .App {
   text-align: center;
 }
